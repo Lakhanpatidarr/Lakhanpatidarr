@@ -43,4 +43,4 @@
 
 | LeetCode | GeeksforGeeks | Codeforces |
 |---------|---------------|------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/Sl8udhensp?theme=dark&font=Karma) |  <a href="https://auth.geeksforgeeks.org/user/lakhanpatidar81"><img src="https://img.shields.io/badge/GFG-200%2B%20Problems-0f9d58?style=for-the-badge"></a>
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Sl8udhensp?theme=dark&font=Karma) |
