@@ -6,7 +6,7 @@
 
 ### Full Stack Developer | DSA Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=lakhanpatidarr&label=Profile%20Views&color=0e75b6&style=flat" />
+<img align="left" src="https://komarev.com/ghpvc/?username=lakhanpatidarr&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <br/>
 
