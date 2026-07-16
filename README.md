@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api
-    type=waving&color=0%3A0D1117%2C50%3A0D4A2A%2C100%3A00C853&height=180&section=header&text=Lakhan%20Patidar&fontSize=52&fontColor=ffffff&fontAlignY=45"
-    width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C50%3A0D4A2A%2C100%3A00C853&height=180&section=header&text=Divyansh%20Kumar%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=45" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Lakhan Patidar</h1>
 <h3 align="center">Full Stack Developer | DSA Enthusiast</h3>
