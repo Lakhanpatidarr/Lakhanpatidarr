@@ -46,3 +46,23 @@
 | LeetCode |
 |---------|
 | ![LeetCode Stats](https://leetcard.jacoblin.cool/Sl8udhensp?theme=dark&font=Karma) |
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Lakhanpatidarr&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00C85320&ring=00C853&fire=FF6F00&currStreakLabel=00E676&sideLabels=00E676&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakhanpatidarr&bg_color=0d1117&color=00e676&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Lakhanpatidarr/Lakhanpatidarr/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakhanpatidarr/Lakhanpatidarr/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Lakhanpatidarr/Lakhanpatidarr/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
