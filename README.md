@@ -11,6 +11,8 @@
 <br/>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-unserori.vercel.app/?username=Lakhanpatidarr&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="lakhanpatidarr"/></a></p>
+
+</div>
   
 ---
 
